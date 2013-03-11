@@ -1,2 +1,27 @@
 Byznys modely otevřených dat
 
+Téma otevřených dat v sobě nezahrnuje jen otázky transparentnosti nebo zlepšování veřejných služeb. Otevřená data mohou v sobě ukrývat také velký potenciál pro nové podnikatelské příležitosti, ať už v podobě tvorby nových produktů či služeb, nebo rozšiřování těch stávajících. Jakými způsoby se na datech, které při své činnosti vytváří a následně zpřístupňuje veřejná správa, dá vlastně vydělávat?
+
+První podnikatelské záměry s veřejnými daty sahají do sedmdesátých let, kdy americká meteorologická služba zpřístupnila meteorologická data, jako například tabulky naměřených teplot, výskyt hurikánů nebo zemětřesení, k volnému použití. Firmy začaly na těchto datech stavět své vlastní služby, zejména v podobě komerčních analýz nebo vytváření vlastních předpovědí. 
+
+Zpřístupnění dat z původně armádního systému družicové navigace GPS pro civilní účel v devadesátých letech představuje další mezník v komerčním využívání veřejných dat. Byznys okolo satelitní navigace se od té doby rozrostl do odhadované velikosti XXX miliard dolarů ročně.
+
+V současné době vlády a veřejné organizace ve stále větší míře uvolňují nové a nové datové zdroje, ať už jako výsledek veřejného tlaku směrem k vyšší transparentnosti, či přímo jako ekonomický stimul znalostní ekonomiky. Čeká některý z těchto zdrojů podobný komerční boom, jako zažil GPS?
+
+Mezinadpis
+
+Ekonomický přínos otevřených dat je v současné době předmětem zkoumání akademické sféry i významných konzultačních firem. Například McKinsey and Associates ve svém výzkumu odhadují, že roční ekonomický přínos otevřených dat ve zdravotnictví mže dosahovat až 350 miliard dolarů. Právě zdravotnictví a výdaje na něj jsou v současné době předmětem debaty nejen v Evropě, kde je problémem zejména stárnutí populace, ale hlavně v USA, kde chybí funkční systém zdravotního pojištění. Desítky projektů se snaží inovativně přistupovat k datům o nákladech na zdravotní péči, kvalitě poskytovaných služeb nebo třeba cenách za léky a tato data transformovat například v užitečné aplikace, které umožní pacientům lepší výběr lékaře nebo efektivnější provoz zdravotnických zařízení. 
+
+Uvedená hodnota ekonomického přínosu otevřených dat ve zdravotnictví je ale pouze kvalifikovaným odhadem, který zahrnuje jak nově vygenerované podniky a služby, tak náklady, které byly použitím otevřených dat ušetřeny. Jak uvádí studie McKinsey, je paradoxem, že k přesnějšímu měření komerčního přínosu otevřených dat nám v tuto chvíli chybí přesnější data.
+
+Právě úspora výdajů veřejné správy je předmětem debaty zejména ve Velké Británii. Například pokud jsou státní organizace pravidelně zahlceny požadavky na poskytnutí informace podle zákona o svobodném přístupu k nim, je pro ně z nákladového hlediska výhodnější zveřejnit tyto informace s předstihem všechny, než vyřizovat každou jednotlivou žádost zvlášť. To se může týkat například v České republice připravovaného a v jiných zemích, například na Slovensku již fungujícího, registru smluv. Po jeho zavedení již nebude muset žádný úředník trávit čas zasíláním kopie smlouvy všetečnému občanovi, protože ten si vše najde bez problémů na internetu.
+
+Úspory jsou ale jen prvním patrem ekonomického přínosu otevřených dat. K oživení ekonomiky a jejímu růstu přispívají až teprve podnikatelské aktivity, které tvoří nové hodnoty, za které jsou zákazníci ochotni platit. A těch se začíná objevovat také stále více.
+
+Někdo by mohl vznést námitku, že podnikatelské využití dat, pořízených za veřejné peníze, je nepřijatelnou podporou soukromého byznysu. Tuto námitku však je třeba odmítnout. Náklady na pořízení a vytvoření těchto dat již byly zaplaceny provozem veřejné správy a jejich poskytnutí tak naopak může část financí prostřednictvím nových daní či pracovních příležitostí do státní kasy vrátit. Navíc, na rozdíl od ropy, dřeva v lesích nebo rádiových frekvencí, které může vytěžovat vždy jen omezený počet firem, mohou být otevřená data při férově nastavených pravidlech jejich využití zdrojem pro teoreticky neomezený počet firem, které s nimi mohou pracovat a využít je při svém podnikání. Je pak pouze na trhu, aby ocenil kvalitu nápadu, zpracování nebo jiných kvalit konkurujících si produktů a služeb. 
+
+Je pak v zájmu státu, aby byla data nejen dostupná všem pokud možno bez právních či licenčních omezení, ale také v pokud možno co nejvyšší technické kvalitě. Jednotliví podnikatelé, vývojáři nebo datoví analytici potvrzují, že pro rozhodování, jaká data položit na základ nového byznysu, je jedním z klíčových faktorů jejich kvalita, a to jak po obsahové, tak po technické stránce. Tam, kde jsou data zpřístupněna prostřednictvím propracovaného API v reálném čase je množství zájemců a nových firem větší, než pokud jsou data k dispozici neúplná nebo pouze v základních excelových tabulkách. Velkou roli hraje také dlouhodobá udržitelnost - je nesmysl investovat do práce s daty, jejihcž poskytování stát po nějaké době omezí.
+
+Byznys modely
+
+Nyní již ale ke konkrétním projektům a službám. Způsoby, jakými se snaží firmy otevřená data přetavit v udržitelné podnikaní, se dají shrnout do pěti základních obchodních modelů. Jsou jimi 
